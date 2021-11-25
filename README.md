@@ -22,7 +22,7 @@ npm run build
 
 ### Author
 
-Aveesh Shetty
+Michael 
 ### Version
 
 1.0.0
